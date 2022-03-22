@@ -9,10 +9,4 @@ void reset_to_98(int *n)
 {
 *n = 98;
 }
-/**
-* _putchar - empty function
-*
-* Return: nothing
-*/
-void _putchar(void);
 #endif
