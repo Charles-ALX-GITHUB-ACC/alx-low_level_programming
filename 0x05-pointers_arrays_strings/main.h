@@ -15,4 +15,4 @@ void reset_to_98(int *n)
 * Return: nothing
 */
 void _putchar(void);
-endif
+#endif
