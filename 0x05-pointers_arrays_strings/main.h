@@ -5,14 +5,10 @@
 *
 * Return: nothing
 */
-void reset_to_98(int *n)
-{
-*n = 98;
-}
+void reset_to_98(int *n);
 /**
 * _putchar - empty function
 *
 * Return: nothing
 */
-void _putchar(void);
 #endif
