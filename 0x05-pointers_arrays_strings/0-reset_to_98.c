@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 * reset_to_98 - check the code for holberton students
 * @n : updates the value of n
