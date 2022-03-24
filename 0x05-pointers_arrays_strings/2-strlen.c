@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* _strlen.c - calculates the lenght of string
+* _strlen - calculates the lenght of string
 *
 * @s: points to the address and stores the length
 *
