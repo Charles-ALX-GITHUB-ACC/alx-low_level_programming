@@ -18,7 +18,7 @@ void _puts(char *str);
 void print_rev(char *s); 
 
 /** function function(7)*/
-void rev_string(car *s); 
+void rev_string(char *s); 
 
 /** function eight(8) */
 void put2(char *str); 
