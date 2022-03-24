@@ -2,11 +2,11 @@
 /** 
 * _strlen.c - calculates the lenght of strin
 *
-* @str - points to the address and stores the length
+* @s: points to the address and stores the length
 *
 * Return: Return nothing
 */
-int _strlen(char *str)
+int _strlen(char *s)
 {
-*str = 'abcd';
+*s = 'a';
 }
