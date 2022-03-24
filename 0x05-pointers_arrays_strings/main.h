@@ -5,17 +5,6 @@
 * Return: nothing
 */
 void reset_to_98(int *n);
-/**
-* _putchar - empty function
-*
-* Return: nothing
-*/
-/** 
-* swap_int - swipes the variables 
-*
-* Return: nothing
-*/
-void swap_int(int *a, int *b);
 /** 
 * swap_int - swaps the memory address of the variables
 * @a: swaps the value of a
