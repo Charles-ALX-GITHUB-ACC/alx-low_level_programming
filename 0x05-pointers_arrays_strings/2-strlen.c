@@ -4,9 +4,14 @@
 *
 * @s: points to the address and stores the length
 *
-* Return: Return nothing
+* Return: length
 */
 int _strlen(char *s)
 {
-*s = 'a';
+int i; 
+int length = 0; 
+for(i=0; s[i] !="\0"; i++)
+{
+return (length);
+}
 }
