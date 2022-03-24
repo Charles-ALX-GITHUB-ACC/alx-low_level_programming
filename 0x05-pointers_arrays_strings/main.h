@@ -11,4 +11,10 @@ void reset_to_98(int *n);
 *
 * Return: nothing
 */
+/** 
+* swap_int - swipes the variables 
+*
+* Return: nothing
+*/
+void swap_int(int *a, int *b);
 #endif
