@@ -1,13 +1,20 @@
-#include <stdio.h>
-#include <stdlib.h>
+|#include "main.h"
 /**
-* main - the main function of the program
-* @void: returns no value for this function
-* Description: An empty function that prints _putchar
-* Return: 0 there's no value for this function
+* main - entry point
+* 
+* Return: nothing, return void
 */
+
 int main(void)
 {
-printf("_putchar\n");
-return (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return(0);
 }
